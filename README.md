@@ -1,5 +1,5 @@
 
-<h1 align="center"> Ecommerce-API </h1>
+<h1 align="center"> ShopNow-API </h1>
 
 >### Framework  
  * SpringBoot
